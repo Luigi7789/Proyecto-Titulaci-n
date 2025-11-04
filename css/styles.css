@@ -10,6 +10,26 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
+/* ESTILOS GENERALES   */
+.color-municipio {
+
+background-color: #9f2241;
+}
+.color-letra-municipio {
+
+color: #bb945b!important;
+}
+
+
+
+
+
+
+
+
+
+
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
